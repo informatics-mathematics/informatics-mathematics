@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center"> <b>¤ Organizations ¤</b></p>
+<p align="center">
+  <img height="26px" src="org/org-facebook.svg">
+  <img height="26px" src="org/org-janestreet.svg">
+  <img height="26px" src="org/org-causalens.svg">
+  <img height="26px" src="org/org-mila.svg">
+  <img height="26px" src="org/org-warwick.svg">
+  <img height="26px" src="org/org-alanturing.svg">
+  <img height="26px" src="org/org-jump.svg">
+  <img height="26px" src="org/org-deepmind.svg">
+</p>
 
-<!--
-**informatics-mathematics/informatics-mathematics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <b>¤ Socials ¤</b></p>
+<p align="center">
+  <img height="26px" src="soc/soc-website.svg">
+  <img height="26px" src="soc/soc-kaggle.svg">
+  <img height="26px" src="soc/soc-youtube.svg">
+  <img height="26px" src="soc/soc-stackoverflow.svg">
+  <img height="26px" src="soc/soc-blog.svg">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <b>¤ Competitive Programming ¤</b></p>
+<p align="center">
+  <img height="26px" src="cp/cp-leetcode.svg">
+  <img height="26px" src="cp/cp-codeforces.svg">
+  <img height="26px" src="cp/cp-projecteuler.svg">
+  <img height="26px" src="cp/cp-hackerearth.svg">
+  <img height="26px" src="cp/cp-hackerrank.svg">
+  <img height="26px" src="cp/cp-topcoder.svg">
+  <img height="26px" src="cp/cp-codechef.svg">
+  <img height="26px" src="cp/cp-binarysearch.svg">
+</p>
