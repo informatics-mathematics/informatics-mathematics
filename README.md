@@ -12,13 +12,13 @@
 
 <p align="center"> <b>¤ Socials ¤</b></p>
 <p align="center">
+  <img height="26px" src="soc/soc-acm.svg">
   <img height="26px" src="soc/soc-website.svg">
   <img height="26px" src="soc/soc-stackoverflow.svg">
-  <img height="26px" src="soc/soc-acm.svg">
   <img height="26px" src="soc/soc-youtube.svg">
-  <img height="26px" src="soc/soc-lichess.svg">
   <img height="26px" src="soc/soc-kaggle.svg">
   <img height="26px" src="soc/soc-blog.svg">
+  <img height="26px" src="soc/soc-lichess.svg">
 </p>
 
 <p align="center"> <b>¤ Competitive Programming ¤</b></p>
