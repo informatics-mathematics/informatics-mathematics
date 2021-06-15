@@ -27,10 +27,10 @@
   <a href="https://codeforces.com/profile/informatics-mathematics">
     <img height="26px" src="cp/cp-codeforces.svg">
   </a>
-  <img height="26px" src="cp/cp-projecteuler.svg">
   <img height="26px" src="cp/cp-hackerearth.svg">
-  <img height="26px" src="cp/cp-hackerrank.svg">
+  <img height="26px" src="cp/cp-projecteuler.svg">
   <img height="26px" src="cp/cp-topcoder.svg">
+  <img height="26px" src="cp/cp-hackerrank.svg">
   <a href="https://www.codechef.com/users/code_math">
     <img height="26px" src="cp/cp-codechef.svg">
   </a>
