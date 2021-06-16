@@ -1,7 +1,3 @@
-<p align="center">
-  <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png" alt="Snorlax">
-</p>
-
 <p align="center"> <b>¤ Organizations ¤</b></p>
 <p align="center">
   <img height="26px" src="org/org-facebook.svg">
@@ -42,5 +38,6 @@
 </p>
 
 <p align="center">
-  <img height="52px" src="https://img.pokemondb.net/sprites/firered-leafgreen/normal/mew.png" alt="Mewtwo">
+  <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png" alt="Snorlax">
+  <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/slaking.png" alt="Slaking">
 </p>
