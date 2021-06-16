@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img height="52px" src="https://img.pokemondb.net/sprites/firered-leafgreen/normal/mewtwo.png" alt="Mewtwo">
+  <img height="52px" src="https://img.pokemondb.net/sprites/firered-leafgreen/normal/mew.png" alt="Mewtwo">
 </p>
