@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png" alt="Snorlax">
+</p>
+
 <p align="center"> <b>¤ Organizations ¤</b></p>
 <p align="center">
   <img height="26px" src="org/org-facebook.svg">
@@ -35,4 +39,8 @@
     <img height="26px" src="cp/cp-codechef.svg">
   </a>
   <img height="26px" src="cp/cp-binarysearch.svg">
+</p>
+
+<p align="center">
+  <img height="52px" src="https://img.pokemondb.net/sprites/firered-leafgreen/normal/mewtwo.png" alt="Mewtwo">
 </p>
