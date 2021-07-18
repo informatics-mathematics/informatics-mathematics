@@ -2,11 +2,12 @@
 <p align="center">
   <img height="26px" src="org/org-facebook.svg">
   <img height="26px" src="org/org-janestreet.svg">
-  <img height="26px" src="org/org-causalens.svg">
+  <!-- <img height="26px" src="org/org-causalens.svg"> -->
   <img height="26px" src="org/org-quadrature.svg">
-  <img height="26px" src="org/org-warwick.svg">
+  <!-- <img height="26px" src="org/org-warwick.svg"> -->
   <img height="26px" src="org/org-mila.svg">
-  <img height="26px" src="org/org-alanturing.svg">
+  <img height="26px" src="org/org-citadel.svg">
+  <!-- <img height="26px" src="org/org-alanturing.svg"> -->
   <img height="26px" src="org/org-jump.svg">
   <img height="26px" src="org/org-deepmind.svg">
 </p>
