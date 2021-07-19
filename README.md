@@ -36,7 +36,7 @@
   <img height="26px" src="soc/soc-acm.svg">
   <img height="26px" src="soc/soc-website.svg">
   <img height="26px" src="soc/soc-stackoverflow.svg">
-  <img height="26px" src="soc/soc-jovian.svg">
+  <img height="26px" src="soc/soc-jovianai.svg">
   <img height="26px" src="soc/soc-youtube.svg">
   <img height="26px" src="soc/soc-kaggle.svg">
   <img height="26px" src="soc/soc-mathoverflow.svg">
