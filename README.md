@@ -1,3 +1,14 @@
+<p align="center"> <b>¤ Languages ¤</b></p>
+<p align="center">
+  <img height="26px" src="lang/lang-c++.svg">
+  <img height="26px" src="lang/lang-python.svg">
+  <img height="26px" src="lang/lang-haskell.svg">
+  <img height="26px" src="lang/lang-golang.svg">
+  <img height="26px" src="lang/lang-rust.svg">
+  <img height="26px" src="lang/lang-javascript.svg">
+  <img height="26px" src="lang/lang-typescript.svg">
+</p>
+
 <p align="center"> <b>¤ Competitive Programming ¤</b></p>
 <p align="center">
   <img height="26px" src="cp/cp-atcoder.svg">
