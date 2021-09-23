@@ -56,3 +56,10 @@
 <p align="center">
   <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 </p>
+
+<p align="center">
+  <img height="26px" src="lang/new-scala.svg">
+  <img height="26px" src="lang/new-kotlin.svg">
+  <img height="26px" src="lang/new-swift.svg">
+  <img height="26px" src="lang/new-erlang.svg">
+</p>
